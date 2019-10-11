@@ -13074,3 +13074,7 @@ section.reg-content .button {
 .section#agenda {
     text-align: left;
 }
+
+#agenda ul li.bullet p.p {
+    margin: 0;
+}
