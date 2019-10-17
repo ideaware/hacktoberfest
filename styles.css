@@ -1,0 +1,11 @@
+@media screen and (max-width: 1024px) {
+  main.home .space {
+    margin-top: 390px;
+  }
+}
+
+@media screen and (max-width: 1024px) {
+  main.home .sponsors {
+    margin-top: 100px;
+  }
+}
