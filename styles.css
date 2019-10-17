@@ -9,3 +9,13 @@
     margin-top: 100px;
   }
 }
+
+main.home .p {
+  margin: 10px 0;
+  color: #fdfeff;
+}
+
+main.home .section2 p {
+  margin: 20px 0 60px 0;
+  margin: 20px 0 20px 0;
+}
