@@ -2,7 +2,7 @@
 
 ## Bienvenidos
 
-Este es el `Landing Page` para el evento de Hacktoberfest organizado por [Ideaware](https://ideaware.co) con la ayuda de [DigitalOcean](https://www.digitalocean.com) y [Dev](https://dev.to)
+Este es el `Landing Page` para el evento de Hacktoberfest organizado por [Ideaware](https://ideaware.co) con el patrocinio de [DigitalOcean](https://www.digitalocean.com) y [Dev](https://dev.to)
 
 ## ¿Qué es Hacktoberfest?
 
