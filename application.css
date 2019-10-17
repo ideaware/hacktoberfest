@@ -12011,21 +12011,24 @@ header {
 }
 
 main.home.mainImg0 {
-    background-image: url(./images/polygon-photo-1.png), url(./images/polygon-photo-1.png)
+    background-image: url(./images/hex-2@2x.png), url(./images/hex-1@2x.png);
+    background-size: 22%;
 }
 
 main.home.mainImg1 {
-    background-image: url(./images/polygon-photo-1.png), url(./images/polygon-photo-1.png)
+    background-image: url(./images/hex-2@2x.png), url(./images/hex-1@2x.png);
+    background-size: 22%;
 }
 
 main.home.mainImg2 {
-    background-image: url(./images/polygon-photo-1.png), url(./images/polygon-photo-1.png)
+    background-image: url(./images/hex-2@2x.png), url(./images/hex-1@2x.png);
+    background-size: 22%;
 }
 
 main.home {
     text-align: left;
     background-repeat: no-repeat;
-    background-position: top 110px right 164px, top -20px right 0px;
+    background-position: top 234px right 270px, top 105px right 107px;
     opacity: 1;
     transition: background-image 1.5s linear
 }
