@@ -1,4 +1,4 @@
-﻿@font-face {
+﻿/* @font-face {
     font-family: 'Space Mono Bold';
     src: url(/assets/SpaceMono-Bold-6de6db9666e7940da5c4b52855ab2a0e181b14d74772b234496968230ad8c4d0.ttf)
 }
@@ -16,7 +16,7 @@
 @font-face {
     font-family: 'Space Mono Italic';
     src: url(/assets/SpaceMono-RegularItalic-ba833450488c382ab6b809c33a637ce3997516277c0fc2f644da5647f145d866.ttf)
-}
+} */
 
 .title.is-1,
 .title.is-2 {
