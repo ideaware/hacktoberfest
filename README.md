@@ -22,4 +22,4 @@ Es un evento organizado por Digital Ocean y Dev con diferente aliados alrededor 
 10. Verifica los cambios por archivos ```> git diff```
 11. Agrega los cambios para ser **comitieados**  ```> git add .```
 12. Sube a repo original ```> git push origin mi-nueva-contribucion```
-13. En github crea un PR (pull request) hacia la repo original
+13. En github crea un PR (pull request) hacia el repo original, para ello haz click en ``New pull request``, agrega un título y una descripción a tu PR, haz click en ``Create pull request`` y listo! Tu PR ya ha sido creado
