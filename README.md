@@ -15,10 +15,11 @@ Es un evento organizado por Digital Ocean y Dev con diferente aliados alrededor 
 3. Muevete al directorio de la repo ```> cd hacktoberfest ```
 4. Agrega el remote de la repo original como upstream ```> git remote add upstream git@github.com:ideaware/hacktoberfest.git```
 5. Actualiza si hubo algun cambio ```> git fetch upstream```
-6. Crea una nueva rama con tu contribucion ```> git checkout -b mi-nueva-contribucion```
-7. Haz tus cambios en el editor de texto de tu preferencia
-8. Verifica los archivos cambiados ```> git status```
-9. Verifica los cambios por archivos ```> git diff```
-10. Agrega los cambios para ser **comitieados**  ```> git add .```
-11. Sube a repo original ```> git push origin mi-nueva-contribucion```
-12. En github crea un PR (pull request) hacia la repo original
+6. Trae los cambios de la rama master en upstream a tu local ```> git pull upstream master```
+7. Crea una nueva rama con tu contribucion ```> git checkout -b mi-nueva-contribucion```
+8. Haz tus cambios en el editor de texto de tu preferencia
+9. Verifica los archivos cambiados ```> git status```
+10. Verifica los cambios por archivos ```> git diff```
+11. Agrega los cambios para ser **comitieados**  ```> git add .```
+12. Sube a repo original ```> git push origin mi-nueva-contribucion```
+13. En github crea un PR (pull request) hacia la repo original
