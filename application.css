@@ -13081,3 +13081,24 @@ section.reg-content .button {
 #agenda ul li.bullet p.p {
     margin: 0;
 }
+
+.live {
+    padding: 10px 15px;
+    font-weight: bold;
+    border-radius: 8px;
+    animation: live 2s infinite;
+}
+
+@keyframes live {
+    0% {
+        background-color: #E72131;
+    }
+    
+    50% {
+        background-color: #AD0601;
+    }
+    
+    100% {
+        background-color: #E72131;
+    }
+}
