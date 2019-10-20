@@ -14,8 +14,8 @@ Es un evento organizado por Digital Ocean y Dev con diferentes aliados alrededor
 2. Clona el repo a tu máquina ```> git clone git@github.com:<TuNombreDeUsuario>/hacktoberfest.git ```
 3. Muévete al directorio del repo ```> cd hacktoberfest ```
 4. Agrega el remote del repo original como upstream:
-    Para usuarios Linux y MAC: ```> git remote add upstream git@github.com:ideaware/hacktoberfest.git```
-    Para usuarios Windows: ```> git remote add upstream https://github.com/ideaware/hacktoberfest.git```
+   1. Para usuarios Linux y MAC: ```> git remote add upstream git@github.com:ideaware/hacktoberfest.git```
+   2. Para usuarios Windows: ```> git remote add upstream https://github.com/ideaware/hacktoberfest.git```
 5. Actualiza si hubo algún cambio ```> git fetch upstream master```
 6. Trae los cambios de la rama master en upstream a tu local ```> git pull upstream master```
 7. Crea una nueva rama con tu contribución ```> git checkout -b mi-nueva-contribucion```
