@@ -1,6 +1,6 @@
 require 'json'
 files_json = []
-Dir.glob("../tips/*.md") { |file|
+Dir.glob("../../tips/*.md") { |file|
     content = File.open(file, "r").read
     file_object = {
         :hastags => content.scan(/#\w+/).flatten, 
